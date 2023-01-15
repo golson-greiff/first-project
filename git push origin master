@@ -1,0 +1,36 @@
+[33mcommit e9627ac5392708e7b08394270c524d38a9828e05[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: e413407 b69ac62
+Author: Gabrielle <gabrielle.a.olson@gmail.com>
+Date:   Sat Jan 14 20:28:13 2023 -0600
+
+    Merge branch 'master' of https://github.com/golson-greiff/first-project
+
+[33mcommit e41340766c1ff08b00a4471e49d9c1f652f65328[m
+Author: Gabrielle <gabrielle.a.olson@gmail.com>
+Date:   Sat Jan 14 20:11:40 2023 -0600
+
+    add home.html
+
+[33mcommit b69ac62eea7bbefba6112bcd722e602b6ada4bdd[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: golson-greiff <122699782+golson-greiff@users.noreply.github.com>
+Date:   Sat Jan 14 20:10:26 2023 -0600
+
+    Create file.txt
+
+[33mcommit 1d2f39786df48b3307afb9e7b60709686fb01e95[m
+Author: Gabrielle <gabrielle.a.olson@gmail.com>
+Date:   Sat Jan 14 19:45:32 2023 -0600
+
+    button click, ignore log files
+
+[33mcommit 5884802c70e17db2e2e0f23829af0c553c67debb[m
+Author: Gabrielle <gabrielle.a.olson@gmail.com>
+Date:   Sat Jan 14 19:37:40 2023 -0600
+
+    added JavaScript
+
+[33mcommit 6054593a85b2cb1065f0453d6c9fc01463da39fc[m
+Author: Gabrielle <gabrielle.a.olson@gmail.com>
+Date:   Sat Jan 14 19:32:23 2023 -0600
+
+    initial commit
